@@ -1,0 +1,12 @@
+utilities\DataReader$1.class
+pageObjects\HomePage.class
+pageObjects\CheckoutPage.class
+pageObjects\MyAccountPage.class
+pageObjects\AccountRegistrationPage.class
+pageObjects\LoginPage.class
+pageObjects\ShoppingCartPage.class
+pageObjects\BasePageFactory.class
+testRunner\TestRunner.class
+pageObjects\SearchPage.class
+stepDefinitions\steps.class
+utilities\DataReader.class

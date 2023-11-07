@@ -1,0 +1,60 @@
+22:17:25.299 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+22:17:26.052 [main] INFO  stepDefinitions.steps - Clicked on Login 
+22:17:26.257 [main] INFO  stepDefinitions.steps - Provided Email 
+22:17:26.363 [main] INFO  stepDefinitions.steps - Provided Password 
+22:17:26.445 [main] INFO  stepDefinitions.steps - Clicked on Login button
+22:17:27.046 [main] INFO  stepDefinitions.steps - Login Success 
+22:17:29.863 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+22:17:30.487 [main] INFO  stepDefinitions.steps - Clicked on Login 
+22:17:30.654 [main] INFO  stepDefinitions.steps - Provided Email 
+22:17:30.774 [main] INFO  stepDefinitions.steps - Provided Password 
+22:17:30.862 [main] INFO  stepDefinitions.steps - Clicked on Login button
+22:17:45.912 [main] ERROR stepDefinitions.steps - Login Failed 
+22:17:48.844 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+22:17:49.397 [main] INFO  stepDefinitions.steps - Clicked on Login 
+22:17:49.587 [main] INFO  stepDefinitions.steps - Provided Email 
+22:17:49.733 [main] INFO  stepDefinitions.steps - Provided Password 
+22:17:49.824 [main] INFO  stepDefinitions.steps - Clicked on Login button
+22:17:50.421 [main] INFO  stepDefinitions.steps - Login Success 
+22:17:53.142 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+22:17:53.790 [main] INFO  stepDefinitions.steps - Clicked on Login 
+22:18:12.706 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+22:18:13.292 [main] INFO  stepDefinitions.steps - Clicked on Login 
+22:18:31.557 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+22:18:32.205 [main] INFO  stepDefinitions.steps - Clicked on Login 
+22:18:50.364 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+22:18:50.942 [main] INFO  stepDefinitions.steps - Clicked on Login 
+22:19:09.317 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+22:19:09.910 [main] INFO  stepDefinitions.steps - Clicked on Login 
+22:23:25.083 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+22:23:25.885 [main] INFO  stepDefinitions.steps - Clicked on Login 
+22:23:26.068 [main] INFO  stepDefinitions.steps - Provided Email 
+22:23:26.233 [main] INFO  stepDefinitions.steps - Provided Password 
+22:23:26.326 [main] INFO  stepDefinitions.steps - Clicked on Login button
+22:23:26.902 [main] INFO  stepDefinitions.steps - Login Success 
+22:23:30.009 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+22:23:30.868 [main] INFO  stepDefinitions.steps - Clicked on Login 
+22:23:51.859 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+22:23:52.577 [main] INFO  stepDefinitions.steps - Clicked on Login 
+22:24:11.828 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+22:24:12.826 [main] INFO  stepDefinitions.steps - Clicked on Login 
+22:24:31.369 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+22:24:32.409 [main] INFO  stepDefinitions.steps - Clicked on Login 
+22:24:51.534 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+22:24:52.355 [main] INFO  stepDefinitions.steps - Clicked on Login 
+22:27:58.614 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+22:27:59.448 [main] INFO  stepDefinitions.steps - Clicked on Login 
+22:27:59.698 [main] INFO  stepDefinitions.steps - Provided Email 
+22:27:59.835 [main] INFO  stepDefinitions.steps - Provided Password 
+22:27:59.941 [main] INFO  stepDefinitions.steps - Clicked on Login button
+22:28:00.546 [main] INFO  stepDefinitions.steps - Login Success 
+22:28:03.845 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+22:28:04.924 [main] INFO  stepDefinitions.steps - Clicked on Login 
+22:28:26.065 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+22:28:27.029 [main] INFO  stepDefinitions.steps - Clicked on Login 
+22:28:46.281 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+22:28:47.239 [main] INFO  stepDefinitions.steps - Clicked on Login 
+22:29:06.804 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+22:29:07.588 [main] INFO  stepDefinitions.steps - Clicked on Login 
+22:29:26.351 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+22:29:27.217 [main] INFO  stepDefinitions.steps - Clicked on Login 
