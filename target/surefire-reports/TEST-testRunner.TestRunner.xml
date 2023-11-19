@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="testRunner.TestRunner" time="97.186" tests="6" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="testRunner.TestRunner" time="108.627" tests="6" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-21\bin"/>
-    <property name="sun.java.command" value="C:\Users\Ngoc\AppData\Local\Temp\surefire5824476244625367304\surefirebooter-20231107222751530_3.jar C:\Users\Ngoc\AppData\Local\Temp\surefire5824476244625367304 2023-11-07T22-27-51_265-jvmRun1 surefire-20231107222751530_1tmp surefire_0-20231107222751530_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Ngoc\AppData\Local\Temp\surefire13527961128979608862\surefirebooter-20231107225135252_3.jar C:\Users\Ngoc\AppData\Local\Temp\surefire13527961128979608862 2023-11-07T22-51-34_423-jvmRun1 surefire-20231107225135252_1tmp surefire_0-20231107225135252_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Ngoc\eclipse-workspace\opencart_testing_framework_cucumberBDD\target\test-classes;C:\Users\Ngoc\eclipse-workspace\opencart_testing_framework_cucumberBDD\target\classes;C:\Users\Ngoc\.m2\repository\org\seleniumhq\selenium\selenium-java\4.14.1\selenium-java-4.14.1.jar;C:\Users\Ngoc\.m2\repository\org\seleniumhq\selenium\selenium-api\4.14.1\selenium-api-4.14.1.jar;C:\Users\Ngoc\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.14.1\selenium-chrome-driver-4.14.1.jar;C:\Users\Ngoc\.m2\repository\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar;C:\Users\Ngoc\.m2\repository\com\google\guava\guava\32.1.2-jre\guava-32.1.2-jre.jar;C:\Users\Ngoc\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\Ngoc\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\Ngoc\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\Ngoc\.m2\repository\org\checkerframework\checker-qual\3.33.0\checker-qual-3.33.0.jar;C:\Users\Ngoc\.m2\repository\com\google\errorprone\error_prone_annotations\2.18.0\error_prone_annotations-2.18.0.jar;C:\Users\Ngoc\.m2\repository\com\google\j2objc\j2objc-annotations\2.8\j2objc-annotations-2.8.jar;C:\Users\Ngoc\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.14.1\selenium-chromium-driver-4.14.1.jar;C:\Users\Ngoc\.m2\repository\org\seleniumhq\selenium\selenium-json\4.14.1\selenium-json-4.14.1.jar;C:\Users\Ngoc\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.14.1\selenium-manager-4.14.1.jar;C:\Users\Ngoc\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v116\4.14.1\selenium-devtools-v116-4.14.1.jar;C:\Users\Ngoc\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v117\4.14.1\selenium-devtools-v117-4.14.1.jar;C:\Users\Ngoc\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v118\4.14.1\selenium-devtools-v118-4.14.1.jar;C:\Users\Ngoc\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v85\4.14.1\selenium-devtools-v85-4.14.1.jar;C:\Users\Ngoc\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.14.1\selenium-edge-driver-4.14.1.jar;C:\Users\Ngoc\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.14.1\selenium-firefox-driver-4.14.1.jar;C:\Users\Ngoc\.m2\repository\org\seleniumhq\selenium\selenium-http\4.14.1\selenium-http-4.14.1.jar;C:\Users\Ngoc\.m2\repository\dev\failsafe\failsafe\3.3.2\failsafe-3.3.2.jar;C:\Users\Ngoc\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.14.1\selenium-ie-driver-4.14.1.jar;C:\Users\Ngoc\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.14.1\selenium-remote-driver-4.14.1.jar;C:\Users\Ngoc\.m2\repository\io\opentelemetry\opentelemetry-api\1.28.0\opentelemetry-api-1.28.0.jar;C:\Users\Ngoc\.m2\repository\io\opentelemetry\opentelemetry-context\1.28.0\opentelemetry-context-1.28.0.jar;C:\Users\Ngoc\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.28.0\opentelemetry-exporter-logging-1.28.0.jar;C:\Users\Ngoc\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.28.0\opentelemetry-sdk-metrics-1.28.0.jar;C:\Users\Ngoc\.m2\repository\io\opentelemetry\opentelemetry-extension-incubator\1.28.0-alpha\opentelemetry-extension-incubator-1.28.0-alpha.jar;C:\Users\Ngoc\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.28.0\opentelemetry-sdk-logs-1.28.0.jar;C:\Users\Ngoc\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.28.0\opentelemetry-sdk-common-1.28.0.jar;C:\Users\Ngoc\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.28.0\opentelemetry-sdk-extension-autoconfigure-spi-1.28.0.jar;C:\Users\Ngoc\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.28.0\opentelemetry-sdk-extension-autoconfigure-1.28.0.jar;C:\Users\Ngoc\.m2\repository\io\opentelemetry\opentelemetry-api-events\1.28.0-alpha\opentelemetry-api-events-1.28.0-alpha.jar;C:\Users\Ngoc\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.28.0\opentelemetry-sdk-trace-1.28.0.jar;C:\Users\Ngoc\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.28.0\opentelemetry-sdk-1.28.0.jar;C:\Users\Ngoc\.m2\repository\io\opentelemetry\opentelemetry-semconv\1.28.0-alpha\opentelemetry-semconv-1.28.0-alpha.jar;C:\Users\Ngoc\.m2\repository\net\bytebuddy\byte-buddy\1.14.5\byte-buddy-1.14.5.jar;C:\Users\Ngoc\.m2\repository\org\seleniumhq\selenium\selenium-os\4.14.1\selenium-os-4.14.1.jar;C:\Users\Ngoc\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\Ngoc\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.14.1\selenium-safari-driver-4.14.1.jar;C:\Users\Ngoc\.m2\repository\org\seleniumhq\selenium\selenium-support\4.14.1\selenium-support-4.14.1.jar;C:\Users\Ngoc\.m2\repository\io\cucumber\cucumber-java\7.14.0\cucumber-java-7.14.0.jar;C:\Users\Ngoc\.m2\repository\io\cucumber\cucumber-core\7.14.0\cucumber-core-7.14.0.jar;C:\Users\Ngoc\.m2\repository\io\cucumber\cucumber-gherkin\7.14.0\cucumber-gherkin-7.14.0.jar;C:\Users\Ngoc\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.14.0\cucumber-gherkin-messages-7.14.0.jar;C:\Users\Ngoc\.m2\repository\io\cucumber\gherkin\26.2.0\gherkin-26.2.0.jar;C:\Users\Ngoc\.m2\repository\io\cucumber\messages\22.0.0\messages-22.0.0.jar;C:\Users\Ngoc\.m2\repository\io\cucumber\tag-expressions\5.0.6\tag-expressions-5.0.6.jar;C:\Users\Ngoc\.m2\repository\io\cucumber\cucumber-expressions\16.1.2\cucumber-expressions-16.1.2.jar;C:\Users\Ngoc\.m2\repository\io\cucumber\datatable\7.14.0\datatable-7.14.0.jar;C:\Users\Ngoc\.m2\repository\io\cucumber\cucumber-plugin\7.14.0\cucumber-plugin-7.14.0.jar;C:\Users\Ngoc\.m2\repository\io\cucumber\docstring\7.14.0\docstring-7.14.0.jar;C:\Users\Ngoc\.m2\repository\io\cucumber\html-formatter\20.4.0\html-formatter-20.4.0.jar;C:\Users\Ngoc\.m2\repository\io\cucumber\junit-xml-formatter\0.2.0\junit-xml-formatter-0.2.0.jar;C:\Users\Ngoc\.m2\repository\io\cucumber\ci-environment\9.2.0\ci-environment-9.2.0.jar;C:\Users\Ngoc\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Ngoc\.m2\repository\io\cucumber\cucumber-junit\7.14.0\cucumber-junit-7.14.0.jar;C:\Users\Ngoc\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\Ngoc\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Ngoc\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.15.3\jackson-core-2.15.3.jar;C:\Users\Ngoc\.m2\repository\commons-io\commons-io\2.15.0\commons-io-2.15.0.jar;C:\Users\Ngoc\.m2\repository\org\apache\poi\poi\5.2.4\poi-5.2.4.jar;C:\Users\Ngoc\.m2\repository\commons-codec\commons-codec\1.16.0\commons-codec-1.16.0.jar;C:\Users\Ngoc\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\Ngoc\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\Ngoc\.m2\repository\com\zaxxer\SparseBitSet\1.3\SparseBitSet-1.3.jar;C:\Users\Ngoc\.m2\repository\org\apache\poi\poi-ooxml\5.2.4\poi-ooxml-5.2.4.jar;C:\Users\Ngoc\.m2\repository\org\apache\poi\poi-ooxml-lite\5.2.4\poi-ooxml-lite-5.2.4.jar;C:\Users\Ngoc\.m2\repository\org\apache\xmlbeans\xmlbeans\5.1.1\xmlbeans-5.1.1.jar;C:\Users\Ngoc\.m2\repository\org\apache\commons\commons-compress\1.24.0\commons-compress-1.24.0.jar;C:\Users\Ngoc\.m2\repository\com\github\virtuald\curvesapi\1.08\curvesapi-1.08.jar;C:\Users\Ngoc\.m2\repository\org\apache\logging\log4j\log4j-core\2.21.1\log4j-core-2.21.1.jar;C:\Users\Ngoc\.m2\repository\org\apache\logging\log4j\log4j-api\2.21.1\log4j-api-2.21.1.jar;C:\Users\Ngoc\.m2\repository\org\apache\commons\commons-lang3\3.13.0\commons-lang3-3.13.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Ngoc\AppData\Local\Temp\surefire5824476244625367304\surefirebooter-20231107222751530_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Ngoc\AppData\Local\Temp\surefire13527961128979608862\surefirebooter-20231107225135252_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21+35-LTS-2513"/>
@@ -52,7 +52,7 @@
     <property name="user.language.format" value="vi"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="native.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk-21\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Program Files\Mullvad VPN\resources;C:\Users\Ngoc\yt-dl;C:\Program Files\Java\jdk-21\bin;C:\apache-maven-3.9.4\bin;C:\Users\Ngoc\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\Ngoc\AppData\Local\Programs\Python\Python38\;C:\Users\Ngoc\AppData\Local\Microsoft\WindowsApps;C:\Users\Ngoc\AppData\Roaming\npm;C:\Users\Ngoc\AppData\Local\Programs\VSCodium\bin;C:\src\scrcpy-win64-v1.21;;C:\Users\Ngoc\AppData\Local\Programs\Fiddler;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-21\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Java\jdk-21/bin;C:\Program Files\Java\jdk-21/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Program Files\Mullvad VPN\resources;C:\Users\Ngoc\yt-dl;C:\Program Files\Java\jdk-21\bin;C:\apache-maven-3.9.4\bin;C:\Users\Ngoc\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\Ngoc\AppData\Local\Programs\Python\Python38\;C:\Users\Ngoc\AppData\Local\Microsoft\WindowsApps;C:\Users\Ngoc\AppData\Roaming\npm;C:\Users\Ngoc\AppData\Local\Programs\VSCodium\bin;C:\src\scrcpy-win64-v1.21;;C:\Users\Ngoc\AppData\Local\Programs\Fiddler;."/>
     <property name="java.vm.info" value="mixed mode, sharing"/>
     <property name="stderr.encoding" value="Cp1252"/>
     <property name="java.vendor" value="Oracle Corporation"/>
@@ -60,7 +60,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="Successful Login with Valid Credentials" classname="Login with Valid Credentials" time="7.431">
+  <testcase name="Successful Login with Valid Credentials" classname="Login with Valid Credentials" time="13.22">
     <system-out><![CDATA[
 @sanity @regression
 Scenario: Successful Login with Valid Credentials                        # Features/Login.feature:4
@@ -73,11 +73,11 @@ Scenario: Successful Login with Valid Credentials                        # Featu
   Then User navigates to MyAccount Page                                  # stepDefinitions.steps.user_navigates_to_my_account_page()
 Scenario status ======>PASSED
 ]]></system-out>
-    <system-err><![CDATA[thg 11 07, 2023 10:27:57 CH org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+    <system-err><![CDATA[thg 11 07, 2023 10:51:45 CH org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 119, returning the closest version; found: 118; Please update to a Selenium version that supports CDP version 119
 ]]></system-err>
   </testcase>
-  <testcase name="Login Data Driven Excel #1" classname="Login Data Driven with Excel" time="21.386">
+  <testcase name="Login Data Driven Excel #1" classname="Login Data Driven with Excel" time="23.319">
     <system-out><![CDATA[
 @sanity
 Scenario Outline: Login Data Driven Excel                                                      # Features/LoginDDTExcel.feature:13
@@ -88,11 +88,30 @@ Scenario Outline: Login Data Driven Excel                                       
   Then check User navigates to MyAccount Page by passing Email and Password with excel row "1" # stepDefinitions.steps.check_user_navigates_to_my_account_page_by_passing_email_and_password_with_excel_data(java.lang.String)
 Scenario status ======>PASSED
 ]]></system-out>
-    <system-err><![CDATA[thg 11 07, 2023 10:28:02 CH org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+    <system-err><![CDATA[thg 11 07, 2023 10:51:53 CH org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 119, returning the closest version; found: 118; Please update to a Selenium version that supports CDP version 119
+thg 11 07, 2023 10:52:15 CH org.openqa.selenium.remote.http.WebSocket$Listener onError
+WARNING: Connection reset
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434)
+	at java.net.http/jdk.internal.net.http.SocketTube.readAvailable(SocketTube.java:1178)
+	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.read(SocketTube.java:841)
+	at java.net.http/jdk.internal.net.http.SocketTube$SocketFlowTask.run(SocketTube.java:181)
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$SchedulableTask.run(SequentialScheduler.java:207)
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:280)
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:233)
+	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.signalReadable(SocketTube.java:782)
+	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$ReadEvent.signalEvent(SocketTube.java:965)
+	at java.net.http/jdk.internal.net.http.SocketTube$SocketFlowEvent.handle(SocketTube.java:253)
+	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.handleEvent(HttpClientImpl.java:1467)
+	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.lambda$run$3(HttpClientImpl.java:1412)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:1412)
+
 ]]></system-err>
   </testcase>
-  <testcase name="Login Data Driven Excel #2" classname="Login Data Driven with Excel" time="20.766">
+  <testcase name="Login Data Driven Excel #2" classname="Login Data Driven with Excel" time="22.119">
     <system-out><![CDATA[
 @sanity
 Scenario Outline: Login Data Driven Excel                                                      # Features/LoginDDTExcel.feature:14
@@ -103,9 +122,9 @@ Scenario Outline: Login Data Driven Excel                                       
   Then check User navigates to MyAccount Page by passing Email and Password with excel row "2" # stepDefinitions.steps.check_user_navigates_to_my_account_page_by_passing_email_and_password_with_excel_data(java.lang.String)
 Scenario status ======>PASSED
 ]]></system-out>
-    <system-err><![CDATA[thg 11 07, 2023 10:28:23 CH org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+    <system-err><![CDATA[thg 11 07, 2023 10:52:18 CH org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 119, returning the closest version; found: 118; Please update to a Selenium version that supports CDP version 119
-thg 11 07, 2023 10:28:42 CH org.openqa.selenium.remote.http.WebSocket$Listener onError
+thg 11 07, 2023 10:52:37 CH org.openqa.selenium.remote.http.WebSocket$Listener onError
 WARNING: Connection reset
 java.net.SocketException: Connection reset
 	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401)
@@ -126,7 +145,7 @@ java.net.SocketException: Connection reset
 
 ]]></system-err>
   </testcase>
-  <testcase name="Login Data Driven Excel #3" classname="Login Data Driven with Excel" time="20.341">
+  <testcase name="Login Data Driven Excel #3" classname="Login Data Driven with Excel" time="19.673">
     <system-out><![CDATA[
 @sanity
 Scenario Outline: Login Data Driven Excel                                                      # Features/LoginDDTExcel.feature:15
@@ -137,30 +156,11 @@ Scenario Outline: Login Data Driven Excel                                       
   Then check User navigates to MyAccount Page by passing Email and Password with excel row "3" # stepDefinitions.steps.check_user_navigates_to_my_account_page_by_passing_email_and_password_with_excel_data(java.lang.String)
 Scenario status ======>PASSED
 ]]></system-out>
-    <system-err><![CDATA[thg 11 07, 2023 10:28:44 CH org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+    <system-err><![CDATA[thg 11 07, 2023 10:52:39 CH org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 119, returning the closest version; found: 118; Please update to a Selenium version that supports CDP version 119
-thg 11 07, 2023 10:29:03 CH org.openqa.selenium.remote.http.WebSocket$Listener onError
-WARNING: Connection reset
-java.net.SocketException: Connection reset
-	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401)
-	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434)
-	at java.net.http/jdk.internal.net.http.SocketTube.readAvailable(SocketTube.java:1178)
-	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.read(SocketTube.java:841)
-	at java.net.http/jdk.internal.net.http.SocketTube$SocketFlowTask.run(SocketTube.java:181)
-	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$SchedulableTask.run(SequentialScheduler.java:207)
-	at java.net.http/jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:280)
-	at java.net.http/jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:233)
-	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.signalReadable(SocketTube.java:782)
-	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$ReadEvent.signalEvent(SocketTube.java:965)
-	at java.net.http/jdk.internal.net.http.SocketTube$SocketFlowEvent.handle(SocketTube.java:253)
-	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.handleEvent(HttpClientImpl.java:1467)
-	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.lambda$run$3(HttpClientImpl.java:1412)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
-	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:1412)
-
 ]]></system-err>
   </testcase>
-  <testcase name="Login Data Driven Excel #4" classname="Login Data Driven with Excel" time="20.071">
+  <testcase name="Login Data Driven Excel #4" classname="Login Data Driven with Excel" time="20.544">
     <system-out><![CDATA[
 @sanity
 Scenario Outline: Login Data Driven Excel                                                      # Features/LoginDDTExcel.feature:16
@@ -171,11 +171,11 @@ Scenario Outline: Login Data Driven Excel                                       
   Then check User navigates to MyAccount Page by passing Email and Password with excel row "4" # stepDefinitions.steps.check_user_navigates_to_my_account_page_by_passing_email_and_password_with_excel_data(java.lang.String)
 Scenario status ======>PASSED
 ]]></system-out>
-    <system-err><![CDATA[thg 11 07, 2023 10:29:05 CH org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+    <system-err><![CDATA[thg 11 07, 2023 10:52:59 CH org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 119, returning the closest version; found: 118; Please update to a Selenium version that supports CDP version 119
 ]]></system-err>
   </testcase>
-  <testcase name="Login Data Driven Excel #5" classname="Login Data Driven with Excel" time="6.083">
+  <testcase name="Login Data Driven Excel #5" classname="Login Data Driven with Excel" time="6.745">
     <system-out><![CDATA[
 @sanity
 Scenario Outline: Login Data Driven Excel                                                      # Features/LoginDDTExcel.feature:17
@@ -186,9 +186,9 @@ Scenario Outline: Login Data Driven Excel                                       
   Then check User navigates to MyAccount Page by passing Email and Password with excel row "5" # stepDefinitions.steps.check_user_navigates_to_my_account_page_by_passing_email_and_password_with_excel_data(java.lang.String)
 Scenario status ======>PASSED
 ]]></system-out>
-    <system-err><![CDATA[thg 11 07, 2023 10:29:25 CH org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+    <system-err><![CDATA[thg 11 07, 2023 10:53:20 CH org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 119, returning the closest version; found: 118; Please update to a Selenium version that supports CDP version 119
-thg 11 07, 2023 10:29:29 CH org.openqa.selenium.remote.http.WebSocket$Listener onError
+thg 11 07, 2023 10:53:24 CH org.openqa.selenium.remote.http.WebSocket$Listener onError
 WARNING: Connection reset
 java.net.SocketException: Connection reset
 	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401)

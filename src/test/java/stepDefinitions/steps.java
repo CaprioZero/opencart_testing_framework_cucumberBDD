@@ -57,7 +57,8 @@ public class steps {
 //		Properties pro = new Properties();
 //		pro.load(fis);
 //		br = pro.getProperty("browser");
-
+		
+		System.setProperty("webdriver.http.factory", "jdk-http-client"); //fix Connection reset warning
 	}
 
 	@After
